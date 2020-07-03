@@ -12,6 +12,7 @@
     <module>code/routines</module>
     <module>jobs/process/job1_0.1</module>
     <module>jobs/process/job2_0.1</module>
+    <module>jobs/process/remoteengines_video_viewers_watch_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
