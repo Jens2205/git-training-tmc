@@ -1,0 +1,17 @@
+# Allgemein
+.DS_Store
+Thumbs.db
+
+# Legacy Talend: generierte / temporäre Artefakte
+legacy/talend/TMC_GIT/temp/
+legacy/talend/TMC_GIT/**/*.log
+legacy/talend/TMC_GIT/**/target/
+legacy/talend/TMC_GIT/**/tests/
+legacy/talend/TMC_GIT/**/src/
+legacy/talend/TMC_GIT/**/*.classpath
+legacy/talend/TMC_GIT/**/*.project
+legacy/talend/TMC_GIT/**/*.bak
+
+# Archiv-Hinweis:
+# Größere exportierte Talend-Builds/Artefakte sollten nicht versioniert werden.
+# Stattdessen unter docs/ oder externem Artifact-Storage dokumentieren/ablegen.
